@@ -1,0 +1,120 @@
+<html>
+
+
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>The O.F.S.A Library</h1>
+</div>
+<p>网站应用</p>
+
+<p><a href="http://www.lnlib.com/"target="_blank">辽宁省图书馆</a></p>
+<p>   账号  SZ0000008076       密码  12345678
+<p><a href="http://bilibili.com/"target="_blank">bilibili</a></p>
+
+<p><a href="https://www.elsevier.com/"target="_blank">elsevier</a></p>
+
+<p><a href="http://tool.yovisun.com/scihub/"target="_blank">sci-hub</a></p>
+
+<p><a href="http://gen.lib.rus.ec/"target="_blank">library genesis</a></p>
+
+<p><a href="https://link.springer.com/"target="_blank">springer</a></p>
+
+<p><a href="https://kechuang.org/"target="_blank">科创论坛</a></p>
+
+<p><a href="https://www.wikipedia.org/"target="_blank">wikipedia</a></p>
+
+<p><a href="http://www.makepic.net/Tool/Signet.html"target="_blank">公章在线制作</a></p>
+
+<body style="background-color:Lime">
+
+</body>
+</html>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>The O.F.S.A Library</h1>
+</div>
+<p>网站应用</p>
+
+<p><a href="http://www.lnlib.com/"target="_blank">辽宁省图书馆</a></p>
+<p>   账号  SZ0000008076       密码  12345678
+<p><a href="http://bilibili.com/"target="_blank">bilibili</a></p>
+
+<p><a href="https://www.elsevier.com/"target="_blank">elsevier</a></p>
+
+<p><a href="http://tool.yovisun.com/scihub/"target="_blank">sci-hub</a></p>
+
+<p><a href="http://gen.lib.rus.ec/"target="_blank">library genesis</a></p>
+
+<p><a href="https://link.springer.com/"target="_blank">springer</a></p>
+
+<p><a href="https://kechuang.org/"target="_blank">科创论坛</a></p>
+
+<p><a href="https://www.wikipedia.org/"target="_blank">wikipedia</a></p>
+
+<p><a href="http://www.makepic.net/Tool/Signet.html"target="_blank">公章在线制作</a></p>
+
+<body style="background-color:Lime">
+
+</body>
+</html>
