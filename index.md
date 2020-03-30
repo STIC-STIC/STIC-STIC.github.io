@@ -11,7 +11,7 @@
       <p><a href="/library.html">Resources-资源</a></p>
     </td>
     <td width="25%">
-      <img src="/微信图片_20200323194409.jpg" width="100%">
+      <img src="/001.jpg" width="100%">
     </td>
   </tr>
 </table>
