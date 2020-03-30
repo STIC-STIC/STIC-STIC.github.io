@@ -8,7 +8,7 @@
       <p><b>邮箱：stic@stic.work</b></p>
       <p><b>地址：辽宁省-丹东市-振兴区-英才街-2号-丹东市第二中学-实验楼</b></p>
       <p><b>邮编118001</b></P>
-      <p><a href="/library.html">Resources-资源</a></p>
+      <p><a href="/002.html">Resources-资源</a></p>
       <P><a href="/joinus.html">Join Us-加入我们</a></p>
     </td>
     <td width="25%">
