@@ -5,7 +5,7 @@
       <h1>Science and Technology Innovation Community</h1>
       <p><h2>STIC</h2></p>
       <p><h2>科技创新社</h2></p>
-      <p><b>邮箱：</b></p>
+      <p><b>邮箱：stic@stic.work</b></p>
       <p><b>地址：辽宁省-丹东市-振兴区-英才街-2号-丹东市第二中学-实验楼</b></p>
       <p><b>邮编118001</b></P>
       <p><a href="/library.html">Resources-资源</a></p>
